@@ -12,7 +12,9 @@ I love movies! Here are some of my all time favorites:
 2. Transformers:
 3. The Matrix
 4. Hackers
-5. The Mitchells vs the machines.
+5. The Mitchells vs the machines
+6. I, Robot
+7. Short Circuit
 
 
 source: me
